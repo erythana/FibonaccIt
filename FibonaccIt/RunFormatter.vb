@@ -124,11 +124,13 @@ Public NotInheritable Class RunFormatter
     End Sub
 
     Private Function FibonacciIt(ByVal number As Integer) As Integer
-        If number > 2 Then
-            number = FibonacciIt(number - 1) + (FibonacciIt(number - 2))
-        Else
-            number = 1
-        End If
+		If number > 2 Then
+			number = FibonacciIt(number - 1) + (FibonacciIt(number - 2))
+		ElseIf number > 0 Then
+			number = 1
+		Else
+			number = 0
+		End If
 
         Return number
     End Function
