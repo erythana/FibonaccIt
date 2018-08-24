@@ -5,6 +5,13 @@ FibonaccIt is an Visual Studio Extension to apply an Fibonacci-Styled formatting
   - Applies Code to active Window
   - Reformats to (Visual Studio) Default-Settings, based on your language
   
+![Sample layout after applying the code](https://i.imgur.com/GnItcy4.png)
+
+# How to run the tool
+When running the code/installing the Extension, there will be a new Menu in your Visual Studio toolbar, called "FibonaccIt".  
+From here you can either format your code or reformat it to Visual Studio Default.
+
+  
 # Changed Settings
 When running the FibonaccIt Command:
 
