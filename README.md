@@ -6,12 +6,15 @@ FibonaccIt is an Visual Studio Extension to apply an Fibonacci-Styled formatting
   - Reformats to (Visual Studio) Default-Settings, based on your language
   
 # Changed Settings
+When running the FibonaccIt Command:
+
 | Setting | Value |
 | ------ | ------ |
 |  Options-->Text-Editor-->Basic-->Advanced-->"Pretty listing (reformatting) of code" | "Unchecked" |
 |  Options-->Text-Edtior-->All Langauges-->Tabstops--> | "Insert Spaces"  |
   
 
+When running the Reformatter Command:
 
 | Setting | Value |
 | ------ | ------ |
