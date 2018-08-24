@@ -11,7 +11,7 @@ When running the FibonaccIt Command:
 | Setting | Value |
 | ------ | ------ |
 |  Options-->Text-Editor-->Basic-->Advanced-->"Pretty listing (reformatting) of code" | "Unchecked" |
-|  Options-->Text-Edtior-->All Langauges-->Tabstops--> | "Insert Spaces"  |
+|  Options-->Text-Edtior-->All Langauges-->Tabstops | "Insert Spaces"  |
   
 
 When running the Reformatter Command:
@@ -19,7 +19,7 @@ When running the Reformatter Command:
 | Setting | Value |
 | ------ | ------ |
 |  Options-->Text-Editor-->Basic-->Advanced-->"Pretty listing (reformatting) of code" | "Checked" |
-|  Options-->Text-Edtior-->All Langauges-->Tabstops--> | "Keep Tabstops"  |
+|  Options-->Text-Edtior-->All Langauges-->Tabstops | "Keep Tabstops"  |
 
 
 # ToDo
