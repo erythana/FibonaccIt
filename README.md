@@ -11,7 +11,7 @@ FibonaccIt is an Visual Studio Extension to apply an Fibonacci-Styled formatting
 |  Options-->Text-Editor-->Basic-->Advanced-->"Pretty listing (reformatting) of code" | "Unchecked" |
 |  Options-->Text-Edtior-->All Langauges-->Tabstops--> | "Insert Spaces"  |
   
-When reformatting, these settings are set back to their default values (Pretty listing enabled, Keep Tabstops)
+
 
 | Setting | Value |
 | ------ | ------ |
