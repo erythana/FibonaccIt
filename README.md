@@ -30,7 +30,7 @@ When running the Reformatter Command:
 
 
 # ToDo
-Evaluate wheter it would be usefull (/stylish!) to apply the formatter to the whole project
+Evaluate wheter it would be usefull (/stylish!) to apply the formatter to the whole project  
 Implement handling of languages which require Indention, like Python
 
 # Bugs/Features
